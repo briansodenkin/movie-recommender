@@ -184,9 +184,3 @@ Explore Spark Interactively (supports autocompletion with tabs!): https://spark.
 Scallop Argument Parsing: https://github.com/scallop/scallop/wiki
 
 Spark Resilient Distributed Dataset (RDD): https://spark.apache.org/docs/3.0.1/api/scala/org/apache/spark/rdd/RDD.html
-
-# Credits
-
-Erick Lavoie (Design, Implementation, Tests)
-
-Athanasios Xygkis (Requirements, Tests)
